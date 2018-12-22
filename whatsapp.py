@@ -7,6 +7,6 @@ import time
 
 # Replace below path with the absolute path 
 # to chromedriver in your computer 
-browser = webdriver.Firefox('/home/kalubha/Downloads/python/geckoDriver') 
+browser = webdriver.Firefox('/home/kalubha/Downloads/python/jquery/geckodriver') 
 browser.get('https://www.twitter.com') 
   
